@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332973340611",
+    "project_id": "inventory-smkn1beringin",
+    "storage_bucket": "inventory-smkn1beringin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332973340611:android:320dc723bf6bd8eb4caf76",
+        "android_client_info": {
+          "package_name": "com.example.inventory_smkn1beringin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3djUmpsNPKmVjnoXq4nvK19a-Gjm8t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
